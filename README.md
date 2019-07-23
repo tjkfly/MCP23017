@@ -1,6 +1,6 @@
 # MCP23017
 
-lalalalalalalallalalalalalalallalala
+lalal
 
 ## TODO
 

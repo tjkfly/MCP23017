@@ -8,7 +8,7 @@
     },
     "files": [
         "README.md",
-        "MCP23017.ts"
+        "COOKEDU.ts"
     ],
     "testFiles": [
         "test.ts"
