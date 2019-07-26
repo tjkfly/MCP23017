@@ -13,7 +13,7 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
+    "public": true,
     "license": "MIT",
     "preferredEditor": "tsprj"
 }
